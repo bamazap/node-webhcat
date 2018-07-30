@@ -1,6 +1,6 @@
 {
   "name": "webhcat",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Node bindings for WebHCat, the Apache Hive REST API",
   "main": "./dist/WebHCat.js",
   "scripts": {
